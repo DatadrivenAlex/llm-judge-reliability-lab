@@ -1,0 +1,16 @@
+{"case_id":"factuality-01","expected":"A","original":"A","swapped":"B","confidence":0.88}
+{"case_id":"factuality-02","expected":"B","original":"B","swapped":"A","confidence":0.81}
+{"case_id":"conciseness-01","expected":"A","original":"A","swapped":"A","confidence":0.73}
+{"case_id":"citation-01","expected":"B","original":"A","swapped":"A","confidence":0.92}
+{"case_id":"instruction-01","expected":"tie","original":"tie","swapped":"tie","confidence":0.61}
+{"case_id":"grounding-01","expected":"A","original":"A","swapped":"B","confidence":0.77}
+{"case_id":"format-01","expected":"B","original":"B","swapped":"A","confidence":0.84}
+{"case_id":"safety-01","expected":"B","original":"A","swapped":"A","confidence":0.95}
+{"case_id":"helpfulness-01","expected":"A","original":"A","swapped":"B","confidence":0.66}
+{"case_id":"relevance-01","expected":"B","original":"B","swapped":"B","confidence":0.72}
+{"case_id":"calibration-01","expected":"tie","original":"A","swapped":"A","confidence":0.58}
+{"case_id":"completeness-01","expected":"A","original":"A","swapped":"B","confidence":0.90}
+{"case_id":"robustness-01","expected":"B","original":"B","swapped":"A","confidence":0.79}
+{"case_id":"style-01","expected":"A","original":"A","swapped":"A","confidence":0.63}
+{"case_id":"consistency-01","expected":"B","original":"A","swapped":"A","confidence":0.86}
+{"case_id":"scope-01","expected":"tie","original":"tie","swapped":"tie","confidence":0.55}
